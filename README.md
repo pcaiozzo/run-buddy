@@ -8,7 +8,7 @@ A website that offers fitness training services.
 * CSS
 
 ## Website
-https://github.com/pcaiozzo/run-buddy.git
+ https://pcaiozzo.github.io/run-buddy/
 
 # Contribution
 Made with ❤️ by Paige Caiozzo
